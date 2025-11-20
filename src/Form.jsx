@@ -61,12 +61,12 @@ export default function form() {
         setGender("");
         setLocalAddress("");
         setPermanentAddress("");
-        // setSameAddress(false);
-        // setAreYou("student");
+        setSameAddress(false);
+        setAreYou("student");
         setCourse("");
-        // setOtherCourseName("");
+        setOtherCourseName("");
         setRefrence("");
-        // setFriendName("");
+        setFriendName("");
         setCheckedReg(false);
         setAadhaarFront(null);
         setAadhaarBack(null);
